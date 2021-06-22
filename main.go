@@ -105,7 +105,7 @@ func main() {
 //
 //	input := &sns.PublishInput{
 //		Message:  aws.String(`{"name":"bhavya","message":"aa gaya"}`),
-//		TopicArn: aws.String("arn:aws:sns:us-west-1:062109340479:MyTestTopic1"),
+//		TopicArn: aws.String("----------------"),
 //	}
 //
 //	result, err := client.Publish(input)
